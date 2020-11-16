@@ -105,4 +105,4 @@ theme: landscape
 deploy:
   type: git
   repository: https://github.com/CCY-xxx/myboke.github.io.git
-  branch: gh-pages
+  branch: master
